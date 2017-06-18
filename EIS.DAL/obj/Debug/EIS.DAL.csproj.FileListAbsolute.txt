@@ -1,0 +1,22 @@
+F:\Practice\AngularJS Project\EIS\EIS.DAL\bin\Debug\EIS.DAL.dll
+F:\Practice\AngularJS Project\EIS\EIS.DAL\bin\Debug\EIS.DAL.pdb
+F:\Practice\AngularJS Project\EIS\EIS.DAL\bin\Debug\EIS.BOL.dll
+F:\Practice\AngularJS Project\EIS\EIS.DAL\bin\Debug\EntityFramework.dll
+F:\Practice\AngularJS Project\EIS\EIS.DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\Practice\AngularJS Project\EIS\EIS.DAL\bin\Debug\EIS.BOL.pdb
+F:\Practice\AngularJS Project\EIS\EIS.DAL\bin\Debug\EntityFramework.xml
+F:\Practice\AngularJS Project\EIS\EIS.DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\Practice\AngularJS Project\EIS\EIS.DAL\obj\Debug\EIS.DAL.csprojResolveAssemblyReference.cache
+F:\Practice\AngularJS Project\EIS\EIS.DAL\obj\Debug\EIS.DAL.dll
+F:\Practice\AngularJS Project\EIS\EIS.DAL\obj\Debug\EIS.DAL.pdb
+D:\emploment_portal\EIS\EIS\EIS.DAL\bin\Debug\EIS.DAL.dll
+D:\emploment_portal\EIS\EIS\EIS.DAL\bin\Debug\EIS.DAL.pdb
+D:\emploment_portal\EIS\EIS\EIS.DAL\bin\Debug\EIS.BOL.dll
+D:\emploment_portal\EIS\EIS\EIS.DAL\bin\Debug\EntityFramework.dll
+D:\emploment_portal\EIS\EIS\EIS.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\emploment_portal\EIS\EIS\EIS.DAL\bin\Debug\EIS.BOL.pdb
+D:\emploment_portal\EIS\EIS\EIS.DAL\bin\Debug\EntityFramework.xml
+D:\emploment_portal\EIS\EIS\EIS.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\emploment_portal\EIS\EIS\EIS.DAL\obj\Debug\EIS.DAL.csprojResolveAssemblyReference.cache
+D:\emploment_portal\EIS\EIS\EIS.DAL\obj\Debug\EIS.DAL.dll
+D:\emploment_portal\EIS\EIS\EIS.DAL\obj\Debug\EIS.DAL.pdb

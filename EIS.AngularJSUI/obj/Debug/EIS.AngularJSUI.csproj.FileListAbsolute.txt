@@ -1,0 +1,58 @@
+F:\Practice\AngularJS Project\EIS\EIS.AngularJSUI\bin\roslyn\csc.exe
+F:\Practice\AngularJS Project\EIS\EIS.AngularJSUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Practice\AngularJS Project\EIS\EIS.AngularJSUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Practice\AngularJS Project\EIS\EIS.AngularJSUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Practice\AngularJS Project\EIS\EIS.AngularJSUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Practice\AngularJS Project\EIS\EIS.AngularJSUI\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Practice\AngularJS Project\EIS\EIS.AngularJSUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Practice\AngularJS Project\EIS\EIS.AngularJSUI\bin\roslyn\System.Collections.Immutable.dll
+F:\Practice\AngularJS Project\EIS\EIS.AngularJSUI\bin\roslyn\System.Reflection.Metadata.dll
+F:\Practice\AngularJS Project\EIS\EIS.AngularJSUI\bin\roslyn\vbc.exe
+F:\Practice\AngularJS Project\EIS\EIS.AngularJSUI\bin\roslyn\VBCSCompiler.exe
+F:\Practice\AngularJS Project\EIS\EIS.AngularJSUI\bin\roslyn\VBCSCompiler.exe.config
+F:\Practice\AngularJS Project\EIS\EIS.AngularJSUI\bin\EIS.AngularJSUI.dll.config
+F:\Practice\AngularJS Project\EIS\EIS.AngularJSUI\bin\EIS.AngularJSUI.dll
+F:\Practice\AngularJS Project\EIS\EIS.AngularJSUI\bin\EIS.AngularJSUI.pdb
+F:\Practice\AngularJS Project\EIS\EIS.AngularJSUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Practice\AngularJS Project\EIS\EIS.AngularJSUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Practice\AngularJS Project\EIS\EIS.AngularJSUI\obj\Debug\EIS.AngularJSUI.dll
+F:\Practice\AngularJS Project\EIS\EIS.AngularJSUI\obj\Debug\EIS.AngularJSUI.pdb
+C:\Users\mdman\Downloads\EIS\EIS.AngularJSUI\bin\roslyn\csc.exe
+C:\Users\mdman\Downloads\EIS\EIS.AngularJSUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mdman\Downloads\EIS\EIS.AngularJSUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mdman\Downloads\EIS\EIS.AngularJSUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mdman\Downloads\EIS\EIS.AngularJSUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mdman\Downloads\EIS\EIS.AngularJSUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mdman\Downloads\EIS\EIS.AngularJSUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mdman\Downloads\EIS\EIS.AngularJSUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mdman\Downloads\EIS\EIS.AngularJSUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mdman\Downloads\EIS\EIS.AngularJSUI\bin\roslyn\vbc.exe
+C:\Users\mdman\Downloads\EIS\EIS.AngularJSUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\mdman\Downloads\EIS\EIS.AngularJSUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mdman\Downloads\EIS\EIS.AngularJSUI\bin\EIS.AngularJSUI.dll.config
+C:\Users\mdman\Downloads\EIS\EIS.AngularJSUI\bin\EIS.AngularJSUI.dll
+C:\Users\mdman\Downloads\EIS\EIS.AngularJSUI\bin\EIS.AngularJSUI.pdb
+C:\Users\mdman\Downloads\EIS\EIS.AngularJSUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mdman\Downloads\EIS\EIS.AngularJSUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mdman\Downloads\EIS\EIS.AngularJSUI\obj\Debug\EIS.AngularJSUI.dll
+C:\Users\mdman\Downloads\EIS\EIS.AngularJSUI\obj\Debug\EIS.AngularJSUI.pdb
+D:\emploment_portal\EIS\EIS\EIS.AngularJSUI\bin\roslyn\csc.exe
+D:\emploment_portal\EIS\EIS\EIS.AngularJSUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\emploment_portal\EIS\EIS\EIS.AngularJSUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\emploment_portal\EIS\EIS\EIS.AngularJSUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\emploment_portal\EIS\EIS\EIS.AngularJSUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\emploment_portal\EIS\EIS\EIS.AngularJSUI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\emploment_portal\EIS\EIS\EIS.AngularJSUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\emploment_portal\EIS\EIS\EIS.AngularJSUI\bin\roslyn\System.Collections.Immutable.dll
+D:\emploment_portal\EIS\EIS\EIS.AngularJSUI\bin\roslyn\System.Reflection.Metadata.dll
+D:\emploment_portal\EIS\EIS\EIS.AngularJSUI\bin\roslyn\vbc.exe
+D:\emploment_portal\EIS\EIS\EIS.AngularJSUI\bin\roslyn\VBCSCompiler.exe
+D:\emploment_portal\EIS\EIS\EIS.AngularJSUI\bin\roslyn\VBCSCompiler.exe.config
+D:\emploment_portal\EIS\EIS\EIS.AngularJSUI\bin\EIS.AngularJSUI.dll.config
+D:\emploment_portal\EIS\EIS\EIS.AngularJSUI\bin\EIS.AngularJSUI.dll
+D:\emploment_portal\EIS\EIS\EIS.AngularJSUI\bin\EIS.AngularJSUI.pdb
+D:\emploment_portal\EIS\EIS\EIS.AngularJSUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\emploment_portal\EIS\EIS\EIS.AngularJSUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\emploment_portal\EIS\EIS\EIS.AngularJSUI\obj\Debug\EIS.AngularJSUI.csprojResolveAssemblyReference.cache
+D:\emploment_portal\EIS\EIS\EIS.AngularJSUI\obj\Debug\EIS.AngularJSUI.dll
+D:\emploment_portal\EIS\EIS\EIS.AngularJSUI\obj\Debug\EIS.AngularJSUI.pdb

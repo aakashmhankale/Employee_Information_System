@@ -1,0 +1,16 @@
+F:\Practice\AngularJS Project\EIS\EIS.ConsoleUI\bin\Debug\EIS.ConsoleUI.exe.config
+F:\Practice\AngularJS Project\EIS\EIS.ConsoleUI\bin\Debug\EIS.ConsoleUI.exe
+F:\Practice\AngularJS Project\EIS\EIS.ConsoleUI\bin\Debug\EIS.ConsoleUI.pdb
+F:\Practice\AngularJS Project\EIS\EIS.ConsoleUI\bin\Debug\EIS.BLL.dll
+F:\Practice\AngularJS Project\EIS\EIS.ConsoleUI\bin\Debug\EIS.BOL.dll
+F:\Practice\AngularJS Project\EIS\EIS.ConsoleUI\bin\Debug\EntityFramework.dll
+F:\Practice\AngularJS Project\EIS\EIS.ConsoleUI\bin\Debug\EntityFramework.SqlServer.dll
+F:\Practice\AngularJS Project\EIS\EIS.ConsoleUI\bin\Debug\EIS.DAL.dll
+F:\Practice\AngularJS Project\EIS\EIS.ConsoleUI\bin\Debug\EIS.BLL.pdb
+F:\Practice\AngularJS Project\EIS\EIS.ConsoleUI\bin\Debug\EIS.BOL.pdb
+F:\Practice\AngularJS Project\EIS\EIS.ConsoleUI\bin\Debug\EntityFramework.xml
+F:\Practice\AngularJS Project\EIS\EIS.ConsoleUI\bin\Debug\EntityFramework.SqlServer.xml
+F:\Practice\AngularJS Project\EIS\EIS.ConsoleUI\bin\Debug\EIS.DAL.pdb
+F:\Practice\AngularJS Project\EIS\EIS.ConsoleUI\obj\Debug\EIS.ConsoleUI.csprojResolveAssemblyReference.cache
+F:\Practice\AngularJS Project\EIS\EIS.ConsoleUI\obj\Debug\EIS.ConsoleUI.exe
+F:\Practice\AngularJS Project\EIS\EIS.ConsoleUI\obj\Debug\EIS.ConsoleUI.pdb
